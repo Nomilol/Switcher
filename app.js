@@ -11,10 +11,10 @@ function main(animal){
 		
 		$('img').attr('src','img/'+ val);
 
-		
-		
 	});
 }
+		
+		
 
 
 	/* 
